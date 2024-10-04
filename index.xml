@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Well hello there!.</description>
+    <pubDate>Fri, 04 Oct 2024 15:14:51 GMT</pubDate>
+  </item><item>
+    <title>The High Council of Midkip</title>
+    <link>https://quartz.jzhao.xyz/Factions/The-High-Council-of-Midkip</link>
+    <guid>https://quartz.jzhao.xyz/Factions/The-High-Council-of-Midkip</guid>
+    <description>Information Infobox =this.file.name Information Aliases=this.aliasesStatus=this.statusBased in=this.location Known for: handling all political matters of theKingdom ...</description>
+    <pubDate>Fri, 04 Oct 2024 15:07:34 GMT</pubDate>
+  </item><item>
+    <title>The Cult of Miledu</title>
+    <link>https://quartz.jzhao.xyz/Factions/The-Cult-of-Miledu</link>
+    <guid>https://quartz.jzhao.xyz/Factions/The-Cult-of-Miledu</guid>
+    <description>villain Organization Predecessor: Elvin Claymore Successor: Roldan Vinke Prominent Members Elix Claymore (alive) Theodore Clayhollow (deceased) Daria Ironfleet Kayriel Acquermann ...</description>
+    <pubDate>Fri, 04 Oct 2024 15:07:34 GMT</pubDate>
+  </item><item>
+    <title>Seven Up...</title>
+    <link>https://quartz.jzhao.xyz/Factions/Seven-Up...</link>
+    <guid>https://quartz.jzhao.xyz/Factions/Seven-Up...</guid>
+    <description>Information Infobox =this.file.name Information Aliases=this.aliasesStatus=this.statusCurrent Location=this.location Known for: Description Organization Leader: ...</description>
+    <pubDate>Fri, 04 Oct 2024 15:07:34 GMT</pubDate>
+  </item><item>
+    <title>Factions</title>
+    <link>https://quartz.jzhao.xyz/Factions/Factions</link>
+    <guid>https://quartz.jzhao.xyz/Factions/Factions</guid>
+    <description>id: f488c6c1-7e91-4aaa-8e59-c609ecb1e401 folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: true depth: 3 includeTypes: - folder - markdown ...</description>
+    <pubDate>Fri, 04 Oct 2024 15:07:34 GMT</pubDate>
+  </item><item>
+    <title>Curkip Thieves Guild</title>
+    <link>https://quartz.jzhao.xyz/Factions/Curkip-Thieves-Guild</link>
+    <guid>https://quartz.jzhao.xyz/Factions/Curkip-Thieves-Guild</guid>
+    <description>Information Infobox =this.file.name Information Aliases=this.aliasesStatus=this.statusBased in=this.location Known for: being a wholesome thieves guild Description ...</description>
+    <pubDate>Fri, 04 Oct 2024 15:07:34 GMT</pubDate>
+  </item><item>
+    <title>Calendar Events</title>
+    <link>https://quartz.jzhao.xyz/Events/Calendar-Events/Calendar-Events</link>
+    <guid>https://quartz.jzhao.xyz/Events/Calendar-Events/Calendar-Events</guid>
+    <description></description>
+    <pubDate>Fri, 04 Oct 2024 15:07:34 GMT</pubDate>
+  </item><item>
+    <title>Timeline</title>
+    <link>https://quartz.jzhao.xyz/Events/Timeline</link>
+    <guid>https://quartz.jzhao.xyz/Events/Timeline</guid>
+    <description>Pre-Descent Age of the Old Gods Akenatun and Matunda declares war against Miledu Miledu is forced to go underground. Antasha and Walladu created(or became) the lands and the sea by drawing power from the elemental planes.</description>
+    <pubDate>Fri, 04 Oct 2024 15:07:34 GMT</pubDate>
+  </item><item>
+    <title>Kippian-Sumber War</title>
+    <link>https://quartz.jzhao.xyz/Events/Kippian-Sumber-War</link>
+    <guid>https://quartz.jzhao.xyz/Events/Kippian-Sumber-War</guid>
+    <description></description>
+    <pubDate>Fri, 04 Oct 2024 15:07:34 GMT</pubDate>
+  </item><item>
+    <title>Events</title>
+    <link>https://quartz.jzhao.xyz/Events/Events</link>
+    <guid>https://quartz.jzhao.xyz/Events/Events</guid>
+    <description>id: 1ad1ee3d-b131-40e7-84ab-d115b3bde3df folderPath: &quot;&quot; title: &quot;{{folderName}} overview&quot; showTitle: true depth: 3 includeTypes: - folder - markdown ...</description>
+    <pubDate>Fri, 04 Oct 2024 15:07:34 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
